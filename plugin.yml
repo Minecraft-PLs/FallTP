@@ -1,0 +1,6 @@
+main: pl.mines.xcraftrayx.fallteleport.FallTeleport
+name: FallTeleport
+version: 1.0
+author: xCraftRayX
+description: Teleport from -30 to spawn loc for map name nSpawn
+website: http://mines.pl/
